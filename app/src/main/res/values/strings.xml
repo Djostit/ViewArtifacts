@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View Artifacts</string>
+    <string name="button_dep">Узнать описание</string>
+    <string-array name="artifacts">
+        <item>Планета</item>
+    </string-array>
+</resources>
